@@ -9,3 +9,7 @@ yarn add express
 yarn add @types/express -D
 
 yarn add knex sqlite3
+
+doc=> yarn knex
+yarn knex:migrate
+
