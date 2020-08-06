@@ -5,3 +5,5 @@ yarn add ts-node-dev -D
 
 ---------- SCRIPTS : tsnd == ts-node-dev
 
+yarn add express
+yarn add @types/express -D
