@@ -13,3 +13,5 @@ yarn add knex sqlite3
 doc=> yarn knex
 yarn knex:migrate
 
+yarn add cors
+yarn add @types/cors -D
